@@ -5,7 +5,3 @@ Repositório contendo código, dados e resultados de uma pesquisa sobre as princ
 ## Descrição do Projeto
 
 Este projeto tem como objetivo analisar e compreender as principais causas de morte no Brasil em 2023, utilizando técnicas de **Inteligência Artificial**. A análise inclui a coleta e processamento de dados, além da aplicação de algoritmos de aprendizado de máquina para identificar padrões e tendências.
-
-## Autores
-
-
